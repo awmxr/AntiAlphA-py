@@ -1,0 +1,51 @@
+Bkav
+CMC Threat Intelligence
+Snort IP sample list
+VX Vault
+ViriBack
+PhishLabs
+K7AntiVirus
+CINS Army
+Quttera
+BlockList
+PrecisionSec
+OpenPhish
+0xSI_f33d
+Feodo Tracker
+Web Security Guard
+Scantitan
+AlienVault
+Sophos
+Phishtank
+CyberCrime
+Spam404
+SecureBrain
+Hoplite Industries
+CRDF
+Rising
+Fortinet
+alphaMountain.ai
+Lionic
+Cyble
+Seclookup
+Xcitium Verdict Cloud
+Virusdie External Site Scan
+Artists Against 419
+Google Safebrowsing
+SafeToOpen
+ADMINUSLabs
+ESTsecurity
+Juniper Networks
+Heimdal Security
+AutoShun
+Trustwave
+AICC (MONITORAPP)
+CyRadar
+Dr.Web
+Emsisoft
+Abusix
+Webroot
+Avira
+securolytics
+Antiy-AVL
+Acronis
